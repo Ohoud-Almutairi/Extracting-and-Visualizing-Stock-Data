@@ -16,13 +16,6 @@ The goal is to analyze trends in stock prices and revenue history for both Tesla
 
 ---
 
-## 📂 Repository Contents
-- `notebook.ipynb` → Jupyter Notebook with full analysis and visualizations for Tesla and GameStop.  
-- `README.md` → Project documentation (this file).  
-- *(Optional)* `images/` → Screenshots of plots or dashboards for easier viewing on GitHub.  
-
----
-
 ## 🚀 Technologies Used
 - Python 3  
 - pandas  
